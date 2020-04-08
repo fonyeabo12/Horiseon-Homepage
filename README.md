@@ -11,6 +11,6 @@ Purpose of Project
 
 -To leave the code a little cleaner than I found it.
 
--To snsure all links are functioning correctly, clean up the CSS to make it more efficient.
+-To ensure all links are functioning correctly, clean up the CSS to make it more efficient.
 
 -Include comments, ensuring selector and properties follow semantic structure of HTML elements.
